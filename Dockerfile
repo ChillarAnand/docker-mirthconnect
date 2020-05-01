@@ -1,5 +1,5 @@
 # See https://github.com/brandonstevens/mirth-connect-docker
-FROM java:8
+FROM openjdk:8
 
 ENV MIRTHCONNECT_VERSION 3.5.0.8232.b2153
 ENV MIRTHCONNECT_SHA1SUM 0550d00905ea7161a47d78cedbae35699a5f1b67

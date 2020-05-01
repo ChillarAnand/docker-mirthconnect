@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -x
+
 parse_url()
 {
   # cf http://stackoverflow.com/a/17287984
